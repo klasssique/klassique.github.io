@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Docusaurus is a great tool","permalink":"/blog/daucusaurus-great-tool","unlisted":false,"date":"2024-09-28T00:00:00.000Z"}]}')}}]);

@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://klasssique.github.io/blog"/>
     <subtitle>Klass Blog</subtitle>
-    <icon>https://klasssique.github.io/img/favicon.ico</icon>
+    <icon>https://klasssique.github.io/img/otter-reading-icon.png</icon>
     <entry>
         <title type="html"><![CDATA[Docusaurus is a great tool]]></title>
         <id>https://klasssique.github.io/blog/daucusaurus-great-tool</id>
@@ -15,7 +15,7 @@
         <summary type="html"><![CDATA[Docusaurus is a great Tool.]]></summary>
         <content type="html"><![CDATA[<p>Docusaurus is a great Tool.</p>]]></content>
         <author>
-            <name>Tim COLIN</name>
+            <name>Tim</name>
             <uri>https://github.com/klasssique</uri>
         </author>
         <category label="Docusaurus" term="Docusaurus"/>
